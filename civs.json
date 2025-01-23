@@ -1,0 +1,297 @@
+{
+  "Leaders": [
+    {
+      "Name": "Amina",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Ashoka-World Conqueror",
+      "Required": "Founders",
+      "Banned": false
+    },
+    {
+      "Name": "Ashoka-World Renouncer",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Augustus",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Benjamin Franklin",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Catherine The Great",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Charlemagne",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Confucius",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Friedrich-Baroque",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Friedrich-Oblique",
+      "Required": "Founders",
+      "Banned": false
+    },
+    {
+      "Name": "Harriet Tubman",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Hatshepsut",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Himiko-High Shaman",
+      "Required": "Deluxe",
+      "Banned": false
+    },
+    {
+      "Name": "Himiko-Queen of Wa",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Ibn Battuta",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Isabella",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Jose Rizal",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Lafayette",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Machiavelli",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Napoleon-Emperor",
+      "Required": "2k",
+      "Banned": false
+    },
+    {
+      "Name": "Napoleon-Revolutionary",
+      "Required": "2k",
+      "Banned": false
+    },
+    {
+      "Name": "Pachacuti",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Tecumseh",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Trung Trac",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Xerxes-King of Kings",
+      "Required": "Base",
+      "Banned": false
+    },
+    {
+      "Name": "Xerxes-Achaemenid",
+      "Required": "Deluxe",
+      "Banned": false
+    }
+  ],
+  "Civs": {
+    "Antiquity": [
+      {
+        "Name": "Aksum",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Egypt",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Greece",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Han China",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Khmer",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Maurya India",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Maya",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Mississippian",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Persia",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Rome",
+        "Required": "Base",
+        "Banned": false
+      }
+    ],
+    "Exploration": [
+      {
+        "Name": "Chola",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Abbasid",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Hawai'i",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Inca",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Majaphit",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Ming China",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Mongolia",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Norman",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Shawnee",
+        "Required": "Preorder",
+        "Banned": false
+      },
+      {
+        "Name": "Songhai",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Spain",
+        "Required": "Base",
+        "Banned": false
+      }
+    ],
+    "Modern": [
+      {
+        "Name": "America",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Buganda",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "French Empire",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Empire of Japan",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Mexico",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Mughal",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Prussia",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Qing China",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Russia",
+        "Required": "Base",
+        "Banned": false
+      },
+      {
+        "Name": "Siam",
+        "Required": "Base",
+        "Banned": false
+      }
+    ]
+  }
+}

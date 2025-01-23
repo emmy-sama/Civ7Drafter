@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Emmy",
+    "Version": "Founders",
+    "2k": true
+  },
+  {
+    "Name": "Alex",
+    "Version": "Founders",
+    "2k": true
+  },
+  {
+    "Name": "Chance",
+    "Version": "Founders",
+    "2k": true
+  },
+  {
+    "Name": "John",
+    "Version": "Base",
+    "2k": false
+  },
+  {
+    "Name": "Joseph",
+    "Version": "Base",
+    "2k": false
+  }
+]

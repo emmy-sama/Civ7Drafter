@@ -42,12 +42,12 @@
     },
     {
       "Name": "Friedrich-Baroque",
-      "Required": "Base",
+      "Required": "Deluxe",
       "Banned": false
     },
     {
       "Name": "Friedrich-Oblique",
-      "Required": "Founders",
+      "Required": "Base",
       "Banned": false
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "Name": "Himiko-High Shaman",
-      "Required": "Deluxe",
+      "Required": "Founders",
       "Banned": false
     },
     {
